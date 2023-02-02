@@ -97,5 +97,5 @@ If none is activated, the sorting will be done by AVL.
 	--tab:
 	The sorting method is by a linked list.
 
-6.Licensing
+6. Licensing
 This project was build under the Creative Commons licence.
