@@ -19,10 +19,12 @@ The goal of this project is to create an application that will process a weather
 1. Prerequesites
 
 Linux Distribution like Ubuntu version 22.04 with bash.
+gnuplot in /usr/bin/gnuplot
 
 2. Installation
 
 git pull ou wget
+gcc installed in /usr/bin/gcc
 
 3. Utilisation 
 
