@@ -8,13 +8,25 @@ The goal of this project is to create an application that will process a weather
 
 **_Tables des matières_**
 
-- About this project
+- Prérequis
 - Installation
 - Utilisation
 - Contribution
 - Build with
 - Documentation
 - Licensing
+
+1. Prérequis
+
+Distribution Linux type Ubuntu version 22.04 with bash.
+
+2. Installation
+
+git pull ou wget
+
+3. Utilisation 
+
+./meteo.sh [OPTIONS] [ARGUMENT] -f FILE (see dection 5 for details)
 
 4. Build with
 _Langages & Frameworks_
