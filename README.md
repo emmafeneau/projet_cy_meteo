@@ -6,9 +6,9 @@ Projet CY_METEO
 
 The goal of this project is to create an application that will process a weather data file in order to display graphics.
 
-**_Tables des matières_**
+**_Table of contents_**
 
-- Prérequis
+- Prerequesites
 - Installation
 - Utilisation
 - Contribution
@@ -16,9 +16,9 @@ The goal of this project is to create an application that will process a weather
 - Documentation
 - Licensing
 
-1. Prérequis
+1. Prerequesites
 
-Distribution Linux type Ubuntu version 22.04 with bash.
+Linux Distribution like Ubuntu version 22.04 with bash.
 
 2. Installation
 
@@ -29,7 +29,8 @@ git pull ou wget
 ./meteo.sh [OPTIONS] [ARGUMENT] -f FILE (see dection 5 for details)
 
 4. Build with
-_Langages & Frameworks_
+
+Compiled with gcc
 
 -> A script in Shell language will allow the user to indicate the data he wants to analyze, to filter these data and to make graphs.
 -> The Shell script calls a program in C language so the goal is to sort the information and write the sorted information to a file.
