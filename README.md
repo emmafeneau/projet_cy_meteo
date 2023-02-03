@@ -25,6 +25,7 @@ gnuplot in /usr/bin/gnuplot
 
 git pull ou wget
 gcc installed in /usr/bin/gcc
+put database file into "input/" directory
 
 3. Utilisation 
 
